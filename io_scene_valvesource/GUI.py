@@ -791,7 +791,8 @@ class SMD_PT_BoneData(Properties_SubPanel):
             active_bone_vs = active_bone.vs
         
         active_bone_exportname = get_bone_exportname(active_bone)
-        col.prop(active_bone.vs, 'export_name', placeholder=active_bone_exportname, text='')
+        col.prop(active_bone.vs, 'export_name', text='') # changed     right here
+
         col.separator()
         col.prop(active_bone.vs, 'bone_sort_order', slider=True)
         col.label(text='Export Name: {}'.format(active_bone_exportname))
@@ -1437,7 +1438,8 @@ class SMD_PT_Material(Properties_SubPanel):
         box = layout.box()
 
         if State.exportFormat == ExportFormat.DMX:
-            box.prop(active_material.vs, 'override_dmx_export_path', placeholder=context.scene.vs.material_path)
+            box.prop(active_material.vs, 'override_dmx_export_path') # this is stupid but it will do see what i have to do here? why havent yall made this why is it me that has to lead yall are yall looking at me as the only hope just soon as im done THANK ME
+
 
 
 class SMD_PT_Empty(Properties_SubPanel):
