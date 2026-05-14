@@ -3,7 +3,8 @@
 YOUR LOCAL FIX for blender source tools FOR SOURCE 2 DMX ANIMATION IMPORTING :D 
 
 this is a simple fix for blender source tools idk why that the orginal creator did not fix it but yet claude and mefix it AND IT WAS ONE CODE THATS CAUSING my headachs when im getting a brain aneurysms from all that headaches i gone through making this
-what does this change contain? 
+
+so what does this change contain? 
 - one tiny fix one fix is all it took to make it work thats it literally thats it
 
 yes i couldve tell the orginal creator of blender source tools to fix this and im sorry for that but i did this for Artfunkel with help and yknow what im proud of it imma leave it and ill reach to Artfunkel of said problem and this fix will be removed from github/changed but for now i need a break see yall soon i dont intend to steal nor use it for bad things i just want to help because no one wants to
