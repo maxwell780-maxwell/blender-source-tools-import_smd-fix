@@ -3,6 +3,10 @@
 YOUR LOCAL FIX for blender source tools FOR SOURCE 2 DMX ANIMATION IMPORTING :D 
 
 this is a simple fix for blender source tools idk why that the orginal creator did not fix it but yet claude and mefix it AND IT WAS ONE CODE THATS CAUSING my headachs when im getting a brain aneurysms from all that headaches i gone through making this
+what does this change contain? 
+- one tiny fix one fix is all it took to make it work thats it literally thats it
+
+yes i couldve tell the orginal creator of blender source tools to fix this and im sorry for that but i did this for Artfunkel with help and yknow what im proud of it imma leave it and ill reach to Artfunkel of said problem and this fix will be removed from github/changed but for now i need a break see yall soon i dont intend to steal nor use it for bad things i just want to help because no one wants to
 
 **USE BLENDER 4.1 ONLY FOR FOR EASE OF ACCESS THATS THE ONLY VERSION IT WORKS WITH AND ILL NEVER CHANGE this version NAW**
 
@@ -22,8 +26,7 @@ simply export the clips from deadlock then bam you got a dmx thats your workflow
 
 why did i do this
 
-because yall were lazy no offense and so i had to do gods dirty work im the only sane person who will do this even tho im a newbie and yknow what i still got it done plus i wanted a TOOL NOW I DONT CARE ANYMORE I WANT A TOOL AND I NEED IT NOW POST HASTE and thats why i made this in the first place
-
+because yall were lazy (no offense for real) and so i had to do gods dirty work im the only sane person who will do this even tho im a newbie and yknow what i still got it done plus i wanted a TOOL NOW I DONT CARE ANYMORE I WANT A TOOL AND I NEED IT NOW POST HASTE and thats why i made this in the first place
 
 <img width="915" height="772" alt="Screenshot 2026-05-14 162850" src="https://github.com/user-attachments/assets/054a8f08-729b-4036-ab4b-d2e047ebc0bb" />
 
@@ -32,5 +35,4 @@ because yall were lazy no offense and so i had to do gods dirty work im the only
 heres the images so your not being scammed this is a 100% a fix and not a tool but it works
 
 AND REMEMBER ITS REALLY BROKEN BUT IT WORKS WITH DUCT TAPE AND A LITTLE HOPE I HAVE LEFT IN HUMANITY and a peice of my sanity
-
 all credits gos to Artfunkel (for blender source tools) and claude (for the fix) i dont own this code
