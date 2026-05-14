@@ -1,6 +1,6 @@
 # blender-source-tools-import_smd-fix
 
-YOUR LOCAL TOOL FOR SOURCE 2 DMX ANIMATION IMPORTING :D 
+YOUR LOCAL FIX for blender source tools FOR SOURCE 2 DMX ANIMATION IMPORTING :D 
 
 this is a simple fix for blender source tools idk why that the orginal creator did not fix it but yet claude and mefix it AND IT WAS ONE CODE THATS CAUSING my headachs when im getting a brain aneurysms from all that headaches i gone through making this
 
@@ -29,6 +29,6 @@ because yall were lazy no offense and so i had to do gods dirty work im the only
 
 <img width="1121" height="743" alt="Screenshot 2026-05-14 164830" src="https://github.com/user-attachments/assets/892eb8fe-ff3f-46bd-a0e9-f220a2d2b059" />
 
-heres the images so your not being scammed this is a 100% a tool that will save you some time and like i said the animations are kinda broken so dont be asking for fixes this is a temporally solution
+heres the images so your not being scammed this is a 100% a fix and not a tool but it works
 
-REMEMBER ITS REALLY BROKEN BUT IT WORKS WITH DUCT TAPE AND A LITTLE HOPE I HAVE LEFT IN HUMANITY and a peice of my sanity
+AND REMEMBER ITS REALLY BROKEN BUT IT WORKS WITH DUCT TAPE AND A LITTLE HOPE I HAVE LEFT IN HUMANITY and a peice of my sanity
