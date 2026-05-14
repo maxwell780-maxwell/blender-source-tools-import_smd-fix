@@ -32,3 +32,5 @@ because yall were lazy no offense and so i had to do gods dirty work im the only
 heres the images so your not being scammed this is a 100% a fix and not a tool but it works
 
 AND REMEMBER ITS REALLY BROKEN BUT IT WORKS WITH DUCT TAPE AND A LITTLE HOPE I HAVE LEFT IN HUMANITY and a peice of my sanity
+
+all credits gos to Artfunkel (for blender source tools) and claude (for the fix) i dont own this code
