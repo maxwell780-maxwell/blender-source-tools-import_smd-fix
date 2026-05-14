@@ -27,7 +27,7 @@ simply export the clips from deadlock then bam you got a dmx thats your workflow
 
 why did i do this
 
-because yall were lazy (no offense for real) and so i had to do gods dirty work im the only sane person who will do this even tho im a newbie and yknow what i still got it done plus i wanted a TOOL NOW I DONT CARE ANYMORE I WANT A TOOL AND I NEED IT NOW POST HASTE and thats why i made this in the first place
+because why not :P
 
 <img width="915" height="772" alt="Screenshot 2026-05-14 162850" src="https://github.com/user-attachments/assets/054a8f08-729b-4036-ab4b-d2e047ebc0bb" />
 
