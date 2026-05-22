@@ -2,7 +2,7 @@
 
 YOUR LOCAL FIX for blender source tools FOR SOURCE 2 DMX ANIMATION IMPORTING :D 
 
-this is a simple fix for blender source tools idk why that the orginal creator did not fix it but yet claude and mefix it AND IT WAS ONE CODE THATS CAUSING my headachs when im getting a brain aneurysms from all that headaches i gone through making this
+this is a simple fix for blender source tools idk why that the orginal creator did not fix it but yet claude and me fix it AND IT WAS ONE CODE THATS CAUSING all of the problems 
 
 so what does this change contain? 
 - one tiny fix one fix is all it took to make it work thats it literally thats it
